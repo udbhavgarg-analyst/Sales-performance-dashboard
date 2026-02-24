@@ -1,5 +1,5 @@
 Sales Performance Dashboard
- Project Overview:-
+Project Overview:-
 This project analyzes sales data to identify revenue drivers, category performance, country trends, and determine whether growth is volume-driven or price-driven.
 
 Tools & Technologies:-
